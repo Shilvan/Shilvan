@@ -1,4 +1,4 @@
-- Hi, I’m @Shilvan a Software Developer, currently studying Computer Science.
+- I’m @Shilvan a Software Developer, currently studying Computer Science.
 - Here to pick up new skills and learn new technologies
 - Email me at cshilvan@gmail.com
 
